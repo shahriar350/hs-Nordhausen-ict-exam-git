@@ -1,1 +1,1 @@
-# hs-Nordhausen-ict-exam-git
+# This project converts images to text using AI
